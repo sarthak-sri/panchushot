@@ -25,7 +25,7 @@ SECRET_KEY = '4p!95j6!k1s3w!-r0bf=bbid7)bpx$^yp#6&5gw4c&#%!ki)-+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','panchushot.herokuapp.com']
 
 
 # Application definition
